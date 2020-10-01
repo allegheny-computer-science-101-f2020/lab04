@@ -1,4 +1,4 @@
-# cs101f2020-lab04-starter
+# cs101f2020-lab04
 
 ## DUE: October 15 by 3pm
 
