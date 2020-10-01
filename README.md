@@ -7,8 +7,11 @@
 ## Table of Contents
 
 - [Objectives](#objectives)
+
 - [Introduction](#introduction)
+
 - [Continuous Learning](#continuous-learning)
+
 - [System Commands](#system-commands)
 
   - [Using Docker](#using-docker)
@@ -201,9 +204,9 @@ If [GatorGrader's](https://github.com/GatorEducator/gatorgrader) automated check
         ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-## Using Travis CI
+## Using GitHub Actions CI
 
-This assignment uses [Travis CI](https://travis-ci.com/) to automatically run [GatorGrader](https://github.com/GatorEducator/gatorgrader) and additional checking programs every time you commit to your GitHub repository. The checking will start as soon as you have accepted the assignment -- thus creating your own private repository -- and the course instructor and/or GitHub enables Travis for it. If you are using Travis for the first time, you will need to authorize Travis CI to access the private repositories that you created on GitHub. If you do not see either a yellow ● or a green ✔ or a red ✗ in your listing of commits, then please ask the instructor to see whether or not Travis CI was correctly enabled.
+This assignment uses [GitHub Actions CI](https://github.com/features/actions) to automatically run [GatorGrader](https://github.com/GatorEducator/gatorgrader) and additional checking programs every time you commit to your GitHub repository. The checking will start as soon as you have accepted the assignment -- thus creating your own private repository. If you do not see either a yellow ● or a green ✔ or a red ✗ in your listing of commits, then please contact the instructor.
 
 ## Reporting Problems
 
