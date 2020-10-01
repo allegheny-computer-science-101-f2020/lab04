@@ -35,13 +35,12 @@
 ## Objectives
 
 To continue to practice using GitHub to access the files for an assignment.<br>
-You will complete a programming project using source code provided in the textbook, ultimately implementing and testing a complete solution for the
-sorting arrays containing two primitive types. You will also continue to learn how to implement and test a Java program and to write a Markdown file, practicing how to use an automated grading tool to assess your progress towards<br>
+You will complete a programming project using source code provided in the textbook, ultimately implementing and testing a complete solution for the sorting arrays containing two primitive types. You will also continue to learn how to implement and test a Java program and to write a Markdown file, practicing how to use an automated grading tool to assess your progress towards<br>
 completing the project.Finally, you will practice using Docker containers to run programs like Gradle and GatorGrader.
 
 ## Introduction
 
-Designed for use with [GitHub Classroom](https://classroom.github.com/) and [GatorGrader](https://github.com/GatorEducator/gatorgrader/), this repository contains the starter files for the fourth laboratory assignment in an introductory computer science class, Data Abstraction, that uses the Java programming language. The GitHub Actions CI builds for this repository will pass, as evidenced by a green ✔ instead of a red ✗ appearing in the commit logs. 
+Designed for use with [GitHub Classroom](https://classroom.github.com/) and [GatorGrader](https://github.com/GatorEducator/gatorgrader/), this repository contains the starter files for the fourth laboratory assignment in an introductory computer science class, Data Abstraction, that uses the Java programming language. The GitHub Actions CI builds for this repository will pass, as evidenced by a green ✔ instead of a red ✗ appearing in the commit logs.
 
 This assignment requires a programmer to implement and test a Java program, called `InsertionSort`, that will produce four lines of output. More details about the source code needed for this program are also provided in the discussion of array sorting in Section 3.1.2 of the textbook. Please note that this program will also require you to read and modify another Java class that contains a test suite. The programmer is also responsible for learning how to run a test suite written in the JUnit testing framework, as explained in Section 1.9\. As verified by [Checkstyle](https://github.com/checkstyle/checkstyle), the source code for all Java files must adhere to all of the requirements in the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html).
 
